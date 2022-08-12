@@ -45,7 +45,7 @@ You need to adjust your __init__.py file accordingly:
 
         # pip_importer.auto_install_packages()
 
-### Then you check if the required models are available
+### Then you check if the required modules are available
 
         # Check required modules availability
         try:
@@ -92,9 +92,9 @@ once the addon is restarted, the addon is ready to use:
 
 created by IASpace, Zürich University of the Arts, Switzerland.
 
-* Martin Froehlich.
+* [Martin Froehlich](https://github.com/maybites)
 
 ### Special Thanks:
 [CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) got me started. Hurray to Opensource!
 
-Python support by Florian Bruggisser
+Python support by [Florian Bruggisser](https://github.com/cansik)
